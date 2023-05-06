@@ -1,5 +1,5 @@
 # ![License licenseInfo](https://img.shields.io/badge/License-MIT-yellow.svg)  
-# Lifesaving Note Taker App
+# Regex-Skills
 ## Description
 Shows an example of regex.
 ## Table of Contents
